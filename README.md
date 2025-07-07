@@ -8,3 +8,5 @@ docker exec -it <container_id> bash
 
 to run mysql terminal:
 mysql -u <user_name> -p <_password>
+
+port is 3307 because on my machine it was already occupied.
