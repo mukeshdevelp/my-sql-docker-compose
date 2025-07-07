@@ -7,4 +7,4 @@ or
 docker exec -it <container_id> bash
 
 to run mysql terminal:
-mysql -u <user_name> -p <password>
+mysql -u <user_name> -p <_password>
